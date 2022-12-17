@@ -1,8 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-b1_n6tOHvWU/YKMssWEjo-I/AAAAAAAAQjk/vIJQsAPUpRQKxR44GoCbm3CtRgr8tVBKACLcBGAsYHQ/s0/Android_NewForDevelopers_1024x512_updated.png)](https://g.dev/nomiz)
+[![MasterHead](https://2.bp.blogspot.com/-ZBJxNzkoXaM/Xod8lNLGk_I/AAAAAAAAOzk/VcraFVumnH0K5ljwbMcmVwnKPoCH3sO7QCLcBGAsYHQ/s1600/Artboard%2B1-200.jpg)](https://g.dev/nomiz)
+
+
 <h1 align="center">Hi 👋, I'm Noman Baig</h1>
 <h3 align="center">I have entrepreneurial skills and startup experience. I have worked on one e-commerce app and built different kinds of small projects on Android. I regularly contribute to open source on Github. I have completed computer science courses and have been certified by Harvard and Stanford.</h3>
 
-<img align="right" alt="Coding" width="100" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanbaiga&label=Profile%20views&color=0e75b6&style=flat" alt="nomanbaiga" /> </p>
 
