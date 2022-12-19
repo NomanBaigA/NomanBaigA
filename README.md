@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/nomanbaig_" target="blank"><img src="https://img.shields.io/twitter/follow/nomanbaig_?logo=twitter&style=for-the-badge" alt="nomanbaig_" /></a> </p>
 
-- 💬 Ask me about **Android**
+<!-- - 💬 Ask me about **Android** -->
 
 - 📫 How to reach me **nomizz777@gmail.com**
 
