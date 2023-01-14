@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Noman Baig</h1>
-<h3 align="center">I have entrepreneurial skills and startup experience. I have worked on one e-commerce app and built different kinds of small projects on Android. I regularly contribute to open source on Github. I have completed computer science courses and have been certified by Harvard and Stanford.</h3>
+<!-- <h3 align="center">I have entrepreneurial skills and startup experience. I have worked on one e-commerce app and built different kinds of small projects on Android. I regularly contribute to open source on Github. I have completed computer science courses and have been certified by Harvard and Stanford.</h3> -->
 
 <!-- <img align="right" alt="Coding" width="150" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanbaiga&label=Profile%20views&color=0e75b6&style=flat" alt="nomanbaiga" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanbaiga&label=Profile%20views&color=0e75b6&style=flat" alt="nomanbaiga" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomanbaiga" alt="nomanbaiga" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomanbaiga" alt="nomanbaiga" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/nomanbaig_" target="blank"><img src="https://img.shields.io/twitter/follow/nomanbaig_?logo=twitter&style=for-the-badge" alt="nomanbaig_" /></a> </p>
 
@@ -16,14 +16,14 @@
 
 - 📫 How to reach me **nomizz777@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kAQWPy3o0JPsYa2ifxtXGI13NK41MvXM/view?usp=share_link](https://drive.google.com/file/d/1kAQWPy3o0JPsYa2ifxtXGI13NK41MvXM/view?usp=share_link)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1kAQWPy3o0JPsYa2ifxtXGI13NK41MvXM/view?usp=share_link](https://drive.google.com/file/d/1kAQWPy3o0JPsYa2ifxtXGI13NK41MvXM/view?usp=share_link) -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nomanbaig_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomanbaig_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nomiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nomiz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11522991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11522991" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 
