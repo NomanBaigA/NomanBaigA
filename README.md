@@ -14,7 +14,7 @@
 
 <!-- - 💬 Ask me about **Android** -->
 
-- 📫 How to reach me **nomizz777@gmail.com**
+<!-- - 📫 How to reach me **something@gmail.com** -->
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1kAQWPy3o0JPsYa2ifxtXGI13NK41MvXM/view?usp=share_link](https://drive.google.com/file/d/1kAQWPy3o0JPsYa2ifxtXGI13NK41MvXM/view?usp=share_link) -->
 
